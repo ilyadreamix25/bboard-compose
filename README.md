@@ -1,5 +1,5 @@
 # BBoard
-Jetpack Compose bulletin board app
+Jetpack Compose bulletin board app based on the <a href="https://dummyjson.com">Dummy JSON</a> fake data API
 
 # Screenshots
 <p float="left">
